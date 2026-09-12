@@ -14,7 +14,7 @@ Chaîne de préparation : **THÈME → PROBLÉMATIQUE → POSITION → AXES → 
 ## Pages
 
 - `index.html` — accueil
-- `methode.html` — méthode commune oral/écrit
+- `methode.html` — **Stratégies** communes oral/écrit
 - `dossiers.html` — index des 10 dossiers
 - `dossier.html?id=D01` — page dynamique d'un dossier
 - `sujets.html` — banque filtrable de sujets oral/écrit
